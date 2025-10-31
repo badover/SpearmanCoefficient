@@ -4,7 +4,7 @@ A powerful Python tool for calculating Spearman's rank correlation coefficient w
 
 ## 🎯 Features
 
-- **🔢 Automatic Ranking**: Automatic calculation of Spearman's coefficient. All you need to do is to enter data!
+- **🔢 Automatic Ranking**: Automatic calculation of Spearman's coefficient. Just enter your data!
 - **📈 Two Sorting Modes**: Bigger-to-Lower (btl) or Lower-to-Bigger (ltb) ranking
 - **📊 Detailed Output**: Shows all intermediate calculations
 - **📝 Comprehensive Reporting**: Includes correlation interpretation

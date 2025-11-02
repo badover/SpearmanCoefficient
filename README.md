@@ -13,6 +13,6 @@ A powerful Python tool for calculating Spearman's rank correlation coefficient w
 
 ### Installation
 ```bash
-git clone https://github.com/badover/spearman-correlation.git
+git clone https://github.com/badover/SpearmanCoefficient.git
 cd spearman-correlation
 python spearman.py
